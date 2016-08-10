@@ -5,5 +5,6 @@
     sh bin/build.sh
     sh bin/run.sh
 
-    # run a client request (usage example)
-    node client.js
+## JavaScript socket client
+
+[https://github.com/wuha-io/suffixTree-jsClient](https://github.com/wuha-io/suffixTree-jsClient)
